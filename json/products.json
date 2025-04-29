@@ -1,0 +1,172 @@
+[
+    {
+      "id": 1,
+      "name": "Gafas de Sol Retro",
+      "price": "Bs225.00",
+      "images": ["images/Accessories/Retro-sunglasses_03.webp"],
+      "category": "Accessories",
+      "description": "Estas Gafas de Sol Retro ofrecen un look inspirado en lo vintage con protección moderna. Perfectas para darle un toque de estilo a cualquier conjunto."
+    },
+    {
+      "id": 2,
+      "name": "Pañuelo Miley",
+      "price": "Bs22.00",
+      "images": [
+        "images/Accessories/scrf1.webp",
+        "images/Accessories/scrf2.webp",
+        "images/Accessories/scrf3.webp"
+      ],
+      "category": "Accessories",
+      "isTrending": true,
+      "description": "El Pañuelo Triangular para el Cabello Miley es un accesorio versátil que se puede usar de múltiples maneras. Hecho de tela suave y transpirable."
+    },
+    {
+      "id": 3,
+      "name": "Zapatillas de Lona con Plataforma",
+      "price": "Bs77.00",
+      "images": ["images/Accessories/Platform-Canvas-Sneakers_03.webp"],
+      "category": "Accessories",
+      "description": "Las Zapatillas de Lona con Plataforma ofrecen comodidad y altura. Ideales para salidas casuales y para añadir un toque moderno a tu look."
+    },
+    {
+      "id": 4,
+      "name": "Sandalia Mula con Tacón Acolchada",
+      "price": "Bs128.00",
+      "images": ["images/Accessories/Quilted-Heeled-Mule-Sandal_01.webp"],
+      "category": "Accessories",
+      "description": "La Sandalia Mula con Tacón Acolchada combina elegancia y comodidad. Perfecta para darle un toque sofisticado a cualquier conjunto."
+    },
+    {
+      "id": 5,
+      "name": "Top Bandeau Corto Ultimate",
+      "price": "Bs22.00",
+      "images": [
+        "images/woman/ultimate-crop-bandeau-tops_01.webp",
+        "images/woman/ultimate-crop-bandeau-tops_black_01.webp",
+        "images/woman/ultimate-crop-bandeau-tops_black_02.webp"
+      ],
+      "category": "Woman",
+      "isTrending": true,
+      "description": "Los Tops Bandeau Cortos Ultimate son ideales para usar solos o en capas. Hechos de tela suave y elástica para un ajuste cómodo."
+    },
+    {
+      "id": 6,
+      "name": "Sandalia Tipo Slide Adilette",
+      "price": "Bs85.00",
+      "images": [
+        "images/Accessories/Adilette-Slide-Sandal_01.webp",
+        "images/Accessories/Adilette-Slide-Sandal_color_01.webp"
+      ],
+      "category": "Accessories",
+      "description": "Las Sandalias Adilette son perfectas para un estilo casual. Cuentan con una plantilla cómoda y diseño de calce fácil."
+    },
+    {
+      "id": 7,
+      "name": "Suéter de Manga Corta Pieces",
+      "price": "Bs100.00",
+      "images": [
+        "images/woman/Pieces-short-sleeve-sweater_01.webp",
+        "images/woman/Pieces-short-sleeve-sweater_02.webp",
+        "images/woman/Pieces-short-sleeve-sweater_03.webp"
+      ],
+      "category": "Woman",
+      "isTrending": true,
+      "description": "El Suéter de Manga Corta Pieces es una adición cómoda y con estilo a tu guardarropa. Hecho de material suave y transpirable."
+    },
+    {
+      "id": 8,
+      "name": "Cárdigan Canalé Simona",
+      "price": "Bs82.00 - Bs89.00",
+      "images": [
+        "images/woman/Simona-Ribbed-Cardigan_05.webp",
+        "images/woman/Simona-Ribbed-Cardigan_03.webp",
+        "images/woman/SW1.webp"
+      ],
+      "category": "Woman",
+      "isTrending": true,
+      "description": "El Cárdigan Canalé Simona es perfecto para usar en capas. Su textura acanalada y diseño versátil lo convierten en un básico para cualquier temporada."
+    },
+    {
+      "id": 9,
+      "name": "Camiseta Oversize Multicolor",
+      "price": "Bs50.00",
+      "images": [
+        "images/woman/image68.webp",
+        "images/woman/image67.webp"
+      ],
+      "category": "Woman",
+      "isTrending": true,
+      "description": "La Camiseta Oversize Multicolor ofrece un ajuste relajado y diseño vibrante. Ideal para un look casual y cómodo."
+    },
+    {
+      "id": 10,
+      "name": "Sudadera Clásica Oversize",
+      "price": "Bs158.00",
+      "images": [
+        "images/woman/classic-oversized-sweatshirt_01.webp",
+        "images/woman/classic-oversized-sweatshirt_04.webp"
+      ],
+      "category": "Woman",
+      "description": "Esta Sudadera Clásica Oversize es perfecta para un look acogedor y relajado. Hecha de material de alta calidad para mayor comodidad."
+    },
+    {
+      "id": 11,
+      "name": "Sombrero de Paja con Ala Ancha",
+      "price": "Bs54.00",
+      "images": ["images/Accessories/straw-floppy-hat_03.webp"],
+      "category": "Accessories",
+      "description": "El Sombrero de Paja con Ala Ancha es un accesorio elegante para días soleados. Ofrece gran protección solar con un toque chic."
+    },
+    {
+      "id": 12,
+      "name": "Gafas Estilo Cat-Eye 20257",
+      "price": "Bs86.00",
+      "images": ["images/Accessories/sunglasses1.webp"],
+      "category": "Accessories",
+      "description": "Las Gafas Estilo Cat-Eye 20257 presentan un diseño clásico con un giro moderno. Perfectas para un look sofisticado."
+    },
+    {
+      "id": 13,
+      "name": "Riñonera Deportiva Pride",
+      "price": "Bs39.00",
+      "images": [
+        "images/Bags/Pride-Sport-Hip-Pack-_04.webp",
+        "images/Bags/Pride-Sport-Hip-Pack-_03.webp"
+      ],
+      "category": "Bags",
+      "description": "La Riñonera Deportiva Pride es ideal para llevar lo esencial sin usar las manos. Presenta un diseño vibrante y varios compartimentos."
+    },
+    {
+      "id": 14,
+      "name": "Bolso de Nylon para Danza",
+      "price": "Bs18.00",
+      "images": [
+        "images/Bags/p27-3_7e6d6ca6-5882-4c64-a166-577d894b0ac3.webp",
+        "images/Bags/p27-1_1bcb95c6-a3da-4de5-b15e-ec08d4cb84b9.webp"
+      ],
+      "category": "Bags",
+      "description": "El Bolso de Nylon para Danza es ligero y duradero, ideal para llevar equipo de danza o al gimnasio. Diseño elegante y amplio espacio de almacenamiento."
+    },
+    {
+      "id": 15,
+      "name": "Vestido Tejido Verde",
+      "price": "Bs188.00",
+      "images": [
+        "images/woman/knit-dress-in-green_03.webp"
+      ],
+      "category": "Woman",
+      "description": "El Vestido Tejido en Verde es una prenda versátil que puede usarse de manera casual o elegante. Hecho de material suave y cómodo."
+    },
+    {
+      "id": 16,
+      "name": "Gorro Beanie Marrón Chocolate",
+      "price": "Bs48.00",
+      "images": [
+        "images/woman/beanie-in-chocolate-brown_03.webp",
+        "images/woman/beanie-in-chocolate-brown_02.webp"
+      ],
+      "category": "Woman",
+      "description": "Este Gorro Beanie Marrón Chocolate es perfecto para mantenerte abrigado con estilo. Hecho de tela suave y elástica para un ajuste cómodo."
+    }
+  ]
+  
